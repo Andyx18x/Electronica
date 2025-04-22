@@ -1,7 +1,0 @@
-*.dblite
-*.asc
-*.bin
-*.blif
-*.vcd
-*.out
-hardware.json
